@@ -17,7 +17,7 @@
     "webdriver:update": "webdriver-manager update"
   },
   "pre-commit": [
-    "test"
+    "run": "lint"
   ],
   "keywords": [],
   "author": "",
