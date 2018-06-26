@@ -16,9 +16,9 @@
     "typings": "typings",
     "webdriver:update": "webdriver-manager update"
   },
-  "pre-commit": [
+  "precommit": {
     "run": "lint"
-  ],
+	},
   "keywords": [],
   "author": "",
   "license": "ISC",
